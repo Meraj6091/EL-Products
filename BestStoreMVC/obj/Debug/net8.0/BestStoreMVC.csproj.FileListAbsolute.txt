@@ -140,3 +140,4 @@ F:\dotnet\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\refint\BestStoreMVC.dll
 F:\dotnet\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.pdb
 F:\dotnet\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.genruntimeconfig.cache
 F:\dotnet\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\ref\BestStoreMVC.dll
+F:\dotnet\BestStoreMVC\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.sourcelink.json
